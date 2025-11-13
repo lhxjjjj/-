@@ -1,0 +1,14 @@
+{
+  "name": "qubitcode-website",
+  "version": "1.0.0",
+  "description": "QubitCode - 新一代智能对话系统",
+  "main": "code (2).html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
